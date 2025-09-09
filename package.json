@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@sencha/ext-gen": "^7.9.1",
+    "extjs": "^0.1.0"
+  }
+}
